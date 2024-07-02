@@ -1,5 +1,5 @@
-# portfolio-dados
-Repositório de Projetos em Análises de Dados
+#  portfolio-dados
+<b> Repositório de Projetos em Análises de Dados  </b>
 
 Neste repositório encontrará alguns trabalhos que desenvolvi e estou desenvolvendo, ao longo da minha vida acadêmica e profissional. O objetivo é demonstrar de forma prática o meu repertório em análise de dados, que contribuem significamente para gerar informações e insigths valiosos que ajudem o negócio na tomada de decisão.
 
@@ -16,12 +16,14 @@ Aqui encontrará:
         <td>Projeto</td>
         <td>Link</td>
         <td>Linguaguem</td>
+        <td>Fonte </td>
        <td>Descrição</td>
     </tr>
     <tr>
         <td>Preço dos Notebooks</td>
         <td>https://encr.pw/WztzD</td>
         <td>SQL </td>
+        <td>.csv </td>
         <td>Um projeto de análise de dados utilizando SQL, com o objetivo de disponibilizar insights e recomendação de estoque com base no fluxo de venda. Para tal efeito, foi realizada a exploração de dados, análise descritiva, visualização de dados e criação de gráficos de alta qualidade e conclusão com base na análise realizada. </td> </tr>
     
 </table>
