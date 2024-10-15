@@ -21,7 +21,7 @@ Aqui encontrará:
     </tr>
     <tr>
         <td>Preço dos Notebooks</td>
-        <td>https://encr.pw/WztzD</td>
+        <td>https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4617181546872736/1615341671707507/691495471566312/latest.html</td>
         <td>SQL </td>
         <td>.csv </td>
         <td>Um projeto de análise de dados utilizando SQL, com o objetivo de disponibilizar insights e recomendação de estoque com base no fluxo de venda. Para tal efeito, foi realizada a exploração de dados, análise descritiva, visualização de dados e criação de gráficos de alta qualidade e conclusão com base na análise realizada. </td> </tr>
