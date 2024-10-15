@@ -7,7 +7,7 @@ Todos os projetos utilizam dados provenientes de fontes públicas, e foram desen
 
 O que você vai encontrar neste repositório:<br>
 Projetos de Business Intelligence (BI) desenvolvidos com Databricks e Microsoft Power BI<br>
-Análises utilizando SQL e Python para tratamento, manipulação e visualização de dados<br>
+Análises utilizando SQL e Python para tratamento, manipulação e visualização de dados<br><br>
 Sinta-se à vontade para explorar os projetos e contribuir!<br>
 
  <br>
