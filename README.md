@@ -5,10 +5,10 @@ Bem-vindo(a) ao meu repositório de projetos em análise de dados! Aqui você en
 
 Todos os projetos utilizam dados provenientes de fontes públicas, e foram desenvolvidos com o intuito de testar e aplicar algoritmos, ferramentas e técnicas da área de ciência de dados.
 
-O que você vai encontrar neste repositório:
-Projetos de Business Intelligence (BI) desenvolvidos com Databricks e Microsoft Power BI
-Análises utilizando SQL e Python para tratamento, manipulação e visualização de dados
-Sinta-se à vontade para explorar os projetos e contribuir!
+O que você vai encontrar neste repositório:<br>
+Projetos de Business Intelligence (BI) desenvolvidos com Databricks e Microsoft Power BI<br>
+Análises utilizando SQL e Python para tratamento, manipulação e visualização de dados<br>
+Sinta-se à vontade para explorar os projetos e contribuir!<br>
 
  <br>
 
