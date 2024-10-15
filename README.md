@@ -1,14 +1,16 @@
 #  portfolio-dados
 <b> Repositório de Projetos em Análises de Dados  </b>
 
-Neste repositório encontrará alguns trabalhos que desenvolvi e estou desenvolvendo, ao longo da minha vida acadêmica e profissional. O objetivo é demonstrar de forma prática o meu repertório em análise de dados, que contribuem significamente para gerar informações e insigths valiosos que ajudem o negócio na tomada de decisão.
+Bem-vindo(a) ao meu repositório de projetos em análise de dados! Aqui você encontrará uma coleção de trabalhos que desenvolvi, e continuo desenvolvendo, ao longo da minha trajetória acadêmica e profissional. O objetivo deste repositório é demonstrar, de forma prática, minhas habilidades em análise de dados, destacando como essas análises podem gerar insights valiosos para apoiar a tomada de decisões estratégicas.
 
-Observação: Os dados são de fontes públicas e o objetivo dos trabalhos são testar e colocar em prática o uso de algoritmos, ferramentas e técnicas.
+Todos os projetos utilizam dados provenientes de fontes públicas, e foram desenvolvidos com o intuito de testar e aplicar algoritmos, ferramentas e técnicas da área de ciência de dados.
 
-Aqui encontrará:
+O que você vai encontrar neste repositório:
+Projetos de Business Intelligence (BI) desenvolvidos com Databricks e Microsoft Power BI
+Análises utilizando SQL e Python para tratamento, manipulação e visualização de dados
+Sinta-se à vontade para explorar os projetos e contribuir!
 
-- Projetos de BI em DataBricks e Microsoft Power BI <br>
-- Projetos utilizando SQL e Python <br>
+ <br>
 
 
 <table border="1">
